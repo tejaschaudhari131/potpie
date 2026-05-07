@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Claude Code local state
+.claude/
+
+# Test artifacts
+tests/smoke_screenshot.png
+tests/smoke_connected.png
+
+# OS
+.DS_Store
+Thumbs.db
